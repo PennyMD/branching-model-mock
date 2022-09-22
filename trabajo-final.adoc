@@ -7,6 +7,3 @@ Hola soy tu trabajo final y vas a sacar un 10 conmigo.
 1. Portada
 2. Resumen / Abstract
 3. Introducción
-7. Marco Teórico
-25. Desarrollo
-120. Conclusión
